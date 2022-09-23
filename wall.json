@@ -1,0 +1,26 @@
+[
+    {
+        "name": "play",
+        "imageLink": "https://github.com/diptanshumahish/wall/raw/main/pastello1.png",
+        "author": "pastello",
+        "date": "23rd September,2022",
+        "content": "be real ;)",
+        "dimensions": "1080x1920"
+    },
+    {
+        "name": "playLarge",
+        "imageLink": "https://github.com/diptanshumahish/wall/raw/main/pastello2.png",
+        "author": "pastello",
+        "date": "23rd September,2022",
+        "content": "be real ;)",
+        "dimensions": "1440x2960"
+    },
+    {
+        "name": "it's Okay",
+        "imageLink": "https://github.com/diptanshumahish/wall/raw/main/pastello3.png",
+        "author": "pastello",
+        "date": "23rd September,2022",
+        "content": "it will be all fine, everything will be okay",
+        "dimensions": "1440x2960"
+    }
+]
